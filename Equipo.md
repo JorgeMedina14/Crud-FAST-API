@@ -100,3 +100,4 @@ Todos los archivos contienen comentarios `TODO:` con pistas específicas sobre c
   "price": 999.99
 }
 ``` 
+'Ejercicio completado por Jorge Medina'
